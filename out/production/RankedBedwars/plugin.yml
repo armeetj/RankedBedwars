@@ -1,0 +1,13 @@
+name: RankedBedwars
+author: trashcanolives
+version: 1.0
+description: Ranked Bedwars
+main: club.trashcanolives.RankedBedwars.Main
+website: trashcanolives.club
+commands:
+  rbw:
+    aliases: [bedwars, rankedbedwars, bw]
+    permission: rbw.admin
+    usage: /rbw help
+    description: Configure/setup!
+    permission-message: No permission!
